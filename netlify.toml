@@ -1,4 +1,0 @@
-netlify.toml
-[[redirects]]
-from="/*" to */main_page.html"
-status = 200
